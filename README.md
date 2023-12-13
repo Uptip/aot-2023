@@ -31,3 +31,7 @@ Hint: [Key remapping via as](https://www.typescriptlang.org/docs/handbook/2/mapp
 ## Day 8
 
 Hint: [Omit Operator](https://www.typescriptlang.org/docs/handbook/utility-types.html#omittype-keys)
+
+## Day 9
+
+Hint: Recursion + `infer` keyword
