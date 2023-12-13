@@ -39,3 +39,7 @@ Hint: Recursion + `infer` keyword
 ## Day 10
 
 Hint: [Interpolated Template Literal Types](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html)
+
+## Day 11
+
+Hint: Recursion + handling of nested arrays
