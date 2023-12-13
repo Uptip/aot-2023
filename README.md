@@ -27,3 +27,7 @@ Hint: [Exclude Operator](https://www.typescriptlang.org/docs/handbook/2/mapped-t
 ## Day 7
 
 Hint: [Key remapping via as](https://www.typescriptlang.org/docs/handbook/2/mapped-types.html#key-remapping-via-as)
+
+## Day 8
+
+Hint: [Omit Operator](https://www.typescriptlang.org/docs/handbook/utility-types.html#omittype-keys)
