@@ -35,3 +35,7 @@ Hint: [Omit Operator](https://www.typescriptlang.org/docs/handbook/utility-types
 ## Day 9
 
 Hint: Recursion + `infer` keyword
+
+## Day 10
+
+Hint: [Interpolated Template Literal Types](https://www.typescriptlang.org/docs/handbook/2/template-literal-types.html)
